@@ -1,7 +1,5 @@
 #Hello! Welcome to the guidelines of the cloud native final challenge 2
 
-- Here is the link of video of me showing a bit of my solution: https://youtu.be/7odmMZg3gA0
-
 ## Things you are going to need in order to run the challenge, you can easily click on each one and go to a tutorial on how to install it:
 
 ## Enviroment
